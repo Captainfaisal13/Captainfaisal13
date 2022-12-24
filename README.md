@@ -13,19 +13,19 @@ hi, i'm Shaikh Faisal, a passionate self-taught programmer and a full stack web 
 
 <h3 align="left">Connect With Me:</h3>
   <a href="https://www.linkedin.com/in/shaikhfaisal13/">
-    <img align="left" alt="Aryan's LinkedIN" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img align="left" alt="Faisal's LinkedIN" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
   <a href="https://leetcode.com/captainFaisal/">
-    <img align="left" alt="Aryan's leetcode" width="35px" src="https://github.com/aryans1319/aryans1319/blob/main/lc%20logo.png" />
+    <img align="left" alt="Faisal's leetcode" width="35px" src="https://github.com/aryans1319/aryans1319/blob/main/lc%20logo.png" />
   </a>
   <a href="https://www.codechef.com/users/captainfaisal1">
-    <img align="left" alt="Aryan Shaw| Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" />
+    <img align="left" alt="Shaikh Faisal| Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" />
   </a>   
   <a href="https://codeforces.com/profile/shaikhfaisal3412">
-    <img align="left" alt="Aryan Shaw| Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" />
+    <img align="left" alt="Shaikh Faisal| Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" />
   </a> 
   <a href="https://auth.geeksforgeeks.org/user/shaikhfaisal3412/">
-    <img align="left" alt="Aryan's GFG" width="35px" src="https://github.com/aryans1319/aryans1319/blob/main/gfgf%20logo.png" />
+    <img align="left" alt="Faisal's GFG" width="35px" src="https://github.com/aryans1319/aryans1319/blob/main/gfgf%20logo.png" />
   </a>  
   <br>
   <br>
@@ -71,7 +71,7 @@ hi, i'm Shaikh Faisal, a passionate self-taught programmer and a full stack web 
 
 ## 📢 Current Update
 
-- 🔭 Check out my amazing  [Coin Trace App](https://candid-kitsune-a40eca.netlify.app/)
+- 🔭 Check out my amazing  [Coin Trace App](https://cointracer.netlify.app/)
 - 🌱 I'm Currently Developing the Developer inside me.
 - 👯 Looking to connect with more people
 - 🥅 Goals: Contribute more to Open Source projects and Creating some great personal projects 👋
