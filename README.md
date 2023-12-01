@@ -9,11 +9,9 @@
 ## Introduction:
 hi, i'm Shaikh Faisal, a passionate self-taught programmer and a full stack web developer from india. i love problem-solving and have solved over 600+ problems on various coding platforms , i also have a keen interest in web development and competitive programming
 <br>
-<img align="right" alt="GIF" src="https://github.com/aryans1319/aryans1319/blob/main/gg.gif?raw=true" width="450" height="550" />
-
 <h3 align="left">Connect With Me:</h3>
   <a href="https://www.linkedin.com/in/shaikhfaisal13/">
-    <img align="left" alt="Faisal's LinkedIN" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img src="https://rohitkumar-200.github.io/Images/github-profile/linkedin.svg" align="left" width="35px"alt="Faisal's LinkedIn" />
   </a>
   <a href="https://leetcode.com/captainFaisal/">
     <img align="left" alt="Faisal's leetcode" width="35px" src="https://github.com/aryans1319/aryans1319/blob/main/lc%20logo.png" />
@@ -71,7 +69,7 @@ hi, i'm Shaikh Faisal, a passionate self-taught programmer and a full stack web 
 
 ## 📢 Current Update
 
-- 🔭 Check out my amazing  [Coin Trace App](https://cointracer.netlify.app/)
+- 🔭 Check out my amazing  [Coin Trace App](https://coin-tracer.vercel.app/)
 - 🌱 I'm Currently Developing the Developer inside me.
 - 👯 Looking to connect with more people
 - 🥅 Goals: Contribute more to Open Source projects and Creating some great personal projects 👋
